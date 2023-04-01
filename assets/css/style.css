@@ -473,6 +473,12 @@ section {
   text-align: right;
 }
 
+.top_citsimg{border-radius: 50px;
+  background: #f5f4f5;
+  box-shadow:  20px 20px 60px #d0cfd0,
+               -20px -20px 60px #ffffff;
+}
+
 @media (min-width: 1024px) {
   .hero {
     background-attachment: fixed;
